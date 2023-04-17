@@ -3,7 +3,7 @@
 
 <br>
 
-![Space Travel Desktop Home Screenshot](/screenshots/desktop.png)
+![desktop](https://user-images.githubusercontent.com/118394610/232564971-7820d678-728a-4045-9057-a9073d9f90ed.png)
 
 ## The Objective
 This extra credit project was assigned to me through the Computer Coach Front-end Developer course as part of the CSS Digital Badge Challenge. It is also one of the selections for the Bonus Portfolio Projects portion of the curriculum, so I dediced to kill two birds with one code.
