@@ -23,7 +23,7 @@ We were given a link to the Scrimba course, so it was more or less a code-along 
 
 **Implementing CSS Variables** is actually a lot of fun for me, so this part was fairly easy. There's just something about an anchored point of referrence that helps me keep things organized and clean. That appeals to my OCD in a big way. Variables will be a favorite of mine for the rest of my coding days, I can tell.
 
-**JavaScript** seems like it will be completely logical and easy once I get a solid graps of what all the commands do, but right now it is still a challenge. I was happy to complete this project and have everything working, but I will be focusing a lot of energy on nailing down JS moving forward.
+**JavaScript** seems like it will be completely logical and easy once I get a solid grasp of what all the commands do, but right now it is still a challenge. I was happy to complete this project and have everything working, but I will be focusing a lot of energy on nailing down JS moving forward.
 
 ## My Conlusion
 
